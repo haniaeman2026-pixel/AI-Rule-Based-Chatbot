@@ -1,7 +1,5 @@
-# DecodeLabs-Internship
 
-
-## AI-Rule-Based-Chatbot
+# AI-Rule-Based-Chatbot
 
 ##  Project Overview
 
